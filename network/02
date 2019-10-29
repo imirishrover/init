@@ -1,0 +1,3 @@
+ifconfig | grep broadcast | cut -c50-80
+echo
+arp -a
