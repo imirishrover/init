@@ -1,1 +1,1 @@
-networksetup -listallhardwareports | grep "Wi-Fi" -A3 | grep Ethernet | cut -d ' ' -f3
+ifconfig en1 | awk '/ether/ {print $2}'

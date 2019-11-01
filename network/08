@@ -1,3 +1,5 @@
-traceroute www.slash16.org | grep www.slash16.org
+#traceroute www.slash16.org | grep www.slash16.org
 
-whois 52.218.98.20 | grep Organization
+#whois 52.218.98.20 | grep Organization
+
+answer is: Amazon

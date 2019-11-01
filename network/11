@@ -1,3 +1,5 @@
-traceroute slash16.org
+#traceroute slash16.org
 
-#первые три адреса
+- 1 : Local IP
+- 2 : NAT IP
+- 3 : Public IP

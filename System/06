@@ -1,1 +1,1 @@
-sudo service ssh reload
+systemctl restart ssh

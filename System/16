@@ -1,1 +1,3 @@
-cron
+cron - name for service
+crontab - file with jobs
+crond - name for daemon that runs in the background
